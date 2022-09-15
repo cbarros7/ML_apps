@@ -17,7 +17,7 @@ def main():
 
 The main objective of this app is building a customer segmentation based on credit card 
 payments behavior during the last six months to define marketing strategies. 
-You can find the source code for this project in the following [Github repository](https://github.com/andreshugueth/credit_card_clustering).
+You can find the source code for this project in the following [Github repository](https://github.com/cbarros7/holbertonschool-final_project).
 """
     )
 
